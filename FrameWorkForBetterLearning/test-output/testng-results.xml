@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-28T19:09:05 EDT" name="Regression" finished-at="2021-04-28T19:09:39 EDT" duration-ms="33082">
+    <groups>
+    </groups>
+    <test started-at="2021-04-28T19:09:05 EDT" name="Adhoc" finished-at="2021-04-28T19:09:39 EDT" duration-ms="33082">
+      <class name="Com.PeopleNTech.Framework.FrameWorkForBetterLearning.MedicareQuote">
+        <test-method is-config="true" signature="browsers(java.lang.String,java.lang.String)[pri:0, instance:Com.PeopleNTech.Framework.FrameWorkForBetterLearning.MedicareQuote@57d7f8ca]" started-at="2021-04-28T19:09:05 EDT" name="browsers" finished-at="2021-04-28T19:09:08 EDT" duration-ms="2746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.medicaresolutions.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsers -->
+        <test-method signature="f()[pri:0, instance:Com.PeopleNTech.Framework.FrameWorkForBetterLearning.MedicareQuote@57d7f8ca]" started-at="2021-04-28T19:09:08 EDT" name="f" finished-at="2021-04-28T19:09:38 EDT" duration-ms="30120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="endclass()[pri:0, instance:Com.PeopleNTech.Framework.FrameWorkForBetterLearning.MedicareQuote@57d7f8ca]" started-at="2021-04-28T19:09:39 EDT" name="endclass" finished-at="2021-04-28T19:09:39 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endclass -->
+      </class> <!-- Com.PeopleNTech.Framework.FrameWorkForBetterLearning.MedicareQuote -->
+    </test> <!-- Adhoc -->
+  </suite> <!-- Regression -->
+</testng-results>
